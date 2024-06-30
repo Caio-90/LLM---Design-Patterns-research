@@ -1,0 +1,71 @@
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb
+    C 5:0 BancoDeDados - A (3)
+    M 9:4 BancoDeDados.__new__ - A (3)
+    M 21:4 BancoDeDados.get_connection - A (2)
+    M 17:4 BancoDeDados._initialize - A (1)
+C:\Users\caiom\MBA\chatgpt4\Singleton\02.ipynb
+    C 1:0 Singleton1 - A (3)
+    C 11:0 Singleton2 - A (3)
+    M 4:4 Singleton1.__new__ - A (2)
+    M 14:4 Singleton2.__new__ - A (2)
+C:\Users\caiom\MBA\chatgpt4\Singleton\03.ipynb
+    C 1:0 President - A (3)
+    M 4:4 President.__new__ - A (2)
+    M 9:4 President.__init__ - A (2)
+
+11 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.3636363636363638)
+
+RAW
+
+** Total **
+    LOC: 87
+    LLOC: 64
+    
+HAL
+
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb:
+    h1: 3
+    h2: 9
+    N1: 6
+    N2: 10
+    vocabulary: 12
+    length: 16
+    calculated_length: 33.28421251514428
+    volume: 57.359400011538504
+    difficulty: 1.6666666666666667
+    effort: 95.59900001923084
+    time: 5.311055556623936
+    bugs: 0.01911980000384617
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\02.ipynb:
+    h1: 1
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 4
+    length: 6
+    calculated_length: 4.754887502163469
+    volume: 12.0
+    difficulty: 0.6666666666666666
+    effort: 8.0
+    time: 0.4444444444444444
+    bugs: 0.004
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb:
+    h1: 2
+    h2: 5
+    N1: 3
+    N2: 5
+    vocabulary: 7
+    length: 8
+    calculated_length: 13.60964047443681
+    volume: 22.458839376460833
+    difficulty: 1.0
+    effort: 22.458839376460833
+    time: 1.2477132986922685
+    bugs: 0.007486279792153611
+    
+MI
+
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb - A (66.74)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\02.ipynb - A (86.90)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb - A (84.28)
