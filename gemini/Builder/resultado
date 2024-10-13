@@ -1,0 +1,156 @@
+CC
+
+144 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.3402777777777777)
+
+RAW
+
+** Total **
+    LOC: 646
+    LLOC: 457
+    
+HAL
+
+C:\Users\caiom\MBA\gemini\Builder\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\02.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\03.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\04.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\05.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\06.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\07.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\08.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\09.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\gemini\Builder\10.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+    
+MI
+
+C:\Users\caiom\MBA\gemini\Builder\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\02.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\03.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\04.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\05.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\06.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\07.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\08.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\09.ipynb - A (100.00)
+C:\Users\caiom\MBA\gemini\Builder\10.ipynb - A (100.00)

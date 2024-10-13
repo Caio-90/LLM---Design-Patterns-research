@@ -1,25 +1,13 @@
 CC
 
-C:\Users\caiom\MBA\copilot\Singleton\01.ipynb
-    C 1:0 BancoDeDados - A (3)
-    M 4:4 BancoDeDados.__new__ - A (2)
-C:\Users\caiom\MBA\copilot\Singleton\02.ipynb
-    C 1:0 Singleton1 - A (3)
-    C 10:0 Singleton2 - A (3)
-    M 4:4 Singleton1.__new__ - A (2)
-    M 13:4 Singleton2.__new__ - A (2)
-C:\Users\caiom\MBA\copilot\Singleton\03.ipynb
-    C 1:0 President - A (3)
-    M 4:4 President.__new__ - A (2)
-
-8 blocks (classes, functions, methods) analyzed.
-Average complexity: A (2.5)
+24 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.1666666666666665)
 
 RAW
 
 ** Total **
-    LOC: 62
-    LLOC: 36
+    LOC: 176
+    LLOC: 117
     
 HAL
 
@@ -62,9 +50,93 @@ C:\Users\caiom\MBA\copilot\Singleton\03.ipynb:
     effort: 6.965784284662087
     time: 0.3869880158145604
     bugs: 0.004643856189774725
+C:\Users\caiom\MBA\copilot\Singleton\04.ipynb:
+    h1: 1
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 8.0
+    volume: 13.931568569324174
+    difficulty: 0.5
+    effort: 6.965784284662087
+    time: 0.3869880158145604
+    bugs: 0.004643856189774725
+C:\Users\caiom\MBA\copilot\Singleton\05.ipynb:
+    h1: 2
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 6
+    length: 6
+    calculated_length: 10.0
+    volume: 15.509775004326936
+    difficulty: 1.0
+    effort: 15.509775004326936
+    time: 0.861654166907052
+    bugs: 0.005169925001442312
+C:\Users\caiom\MBA\copilot\Singleton\07.ipynb:
+    h1: 1
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 8.0
+    volume: 13.931568569324174
+    difficulty: 0.5
+    effort: 6.965784284662087
+    time: 0.3869880158145604
+    bugs: 0.004643856189774725
+C:\Users\caiom\MBA\copilot\Singleton\08.ipynb:
+    h1: 1
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 8.0
+    volume: 13.931568569324174
+    difficulty: 0.5
+    effort: 6.965784284662087
+    time: 0.3869880158145604
+    bugs: 0.004643856189774725
+C:\Users\caiom\MBA\copilot\Singleton\09.ipynb:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 3
+    vocabulary: 5
+    length: 5
+    calculated_length: 6.754887502163469
+    volume: 11.60964047443681
+    difficulty: 1.0
+    effort: 11.60964047443681
+    time: 0.6449800263576005
+    bugs: 0.0038698801581456034
+C:\Users\caiom\MBA\copilot\Singleton\10.ipynb:
+    h1: 2
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 6
+    length: 6
+    calculated_length: 10.0
+    volume: 15.509775004326936
+    difficulty: 1.0
+    effort: 15.509775004326936
+    time: 0.861654166907052
+    bugs: 0.005169925001442312
     
 MI
 
 C:\Users\caiom\MBA\copilot\Singleton\01.ipynb - A (99.80)
 C:\Users\caiom\MBA\copilot\Singleton\02.ipynb - A (88.55)
 C:\Users\caiom\MBA\copilot\Singleton\03.ipynb - A (99.49)
+C:\Users\caiom\MBA\copilot\Singleton\04.ipynb - A (95.26)
+C:\Users\caiom\MBA\copilot\Singleton\05.ipynb - A (79.46)
+C:\Users\caiom\MBA\copilot\Singleton\07.ipynb - A (95.00)
+C:\Users\caiom\MBA\copilot\Singleton\08.ipynb - A (97.98)
+C:\Users\caiom\MBA\copilot\Singleton\09.ipynb - A (88.14)
+C:\Users\caiom\MBA\copilot\Singleton\10.ipynb - A (75.54)

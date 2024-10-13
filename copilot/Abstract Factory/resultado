@@ -1,0 +1,156 @@
+CC
+
+150 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.48)
+
+RAW
+
+** Total **
+    LOC: 525
+    LLOC: 364
+    
+HAL
+
+C:\Users\caiom\MBA\copilot\Abstract Factory\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Abstract Factory\02.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\copilot\Abstract Factory\03.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\copilot\Abstract Factory\04.ipynb:
+    h1: 1
+    h2: 6
+    N1: 4
+    N2: 8
+    vocabulary: 7
+    length: 12
+    calculated_length: 15.509775004326936
+    volume: 33.68825906469125
+    difficulty: 0.6666666666666666
+    effort: 22.458839376460833
+    time: 1.2477132986922685
+    bugs: 0.011229419688230418
+C:\Users\caiom\MBA\copilot\Abstract Factory\05.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\copilot\Abstract Factory\06.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Abstract Factory\07.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\copilot\Abstract Factory\08.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Abstract Factory\09.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\copilot\Abstract Factory\10.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+
+MI
+
+C:\Users\caiom\MBA\copilot\Abstract Factory\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Abstract Factory\02.ipynb - A (79.06)
+C:\Users\caiom\MBA\copilot\Abstract Factory\03.ipynb - A (80.23)
+C:\Users\caiom\MBA\copilot\Abstract Factory\04.ipynb - A (54.37)
+C:\Users\caiom\MBA\copilot\Abstract Factory\05.ipynb - A (70.63)
+C:\Users\caiom\MBA\copilot\Abstract Factory\06.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Abstract Factory\07.ipynb - A (80.81)
+C:\Users\caiom\MBA\copilot\Abstract Factory\08.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Abstract Factory\09.ipynb - A (85.71)
+C:\Users\caiom\MBA\copilot\Abstract Factory\10.ipynb - A (71.65)

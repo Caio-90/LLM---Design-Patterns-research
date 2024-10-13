@@ -1,0 +1,142 @@
+CC
+
+98 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.2755102040816326)
+
+RAW
+
+** Total **
+    LOC: 420
+    LLOC: 317
+    
+HAL
+
+C:\Users\caiom\MBA\copilot\Builder\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\02.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\03.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\05.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\06.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\07.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\08.ipynb:
+    h1: 3
+    h2: 4
+    N1: 3
+    N2: 6
+    vocabulary: 7
+    length: 9
+    calculated_length: 12.75488750216347
+    volume: 25.26619429851844
+    difficulty: 2.25
+    effort: 56.848937171666485
+    time: 3.158274287314805
+    bugs: 0.008422064766172813
+C:\Users\caiom\MBA\copilot\Builder\09.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\copilot\Builder\10.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+
+MI
+
+C:\Users\caiom\MBA\copilot\Builder\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\02.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\03.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\05.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\06.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\07.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\08.ipynb - A (74.06)
+C:\Users\caiom\MBA\copilot\Builder\09.ipynb - A (100.00)
+C:\Users\caiom\MBA\copilot\Builder\10.ipynb - A (100.00)

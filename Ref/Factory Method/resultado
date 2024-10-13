@@ -1,0 +1,157 @@
+CC
+
+121 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.5041322314049588)
+
+RAW
+
+** Total **
+    LOC: 516
+    LLOC: 335
+    
+HAL
+
+C:\Users\caiom\MBA\ref\Factory Method\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Factory Method\02.ipynb:
+    h1: 2
+    h2: 5
+    N1: 3
+    N2: 5
+    vocabulary: 7
+    length: 8
+    calculated_length: 13.60964047443681
+    volume: 22.458839376460833
+    difficulty: 1.0
+    effort: 22.458839376460833
+    time: 1.2477132986922685
+    bugs: 0.007486279792153611
+C:\Users\caiom\MBA\ref\Factory Method\03.ipynb:
+    h1: 1
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 4
+    length: 6
+    calculated_length: 4.754887502163469
+    volume: 12.0
+    difficulty: 0.6666666666666666
+    effort: 8.0
+    time: 0.4444444444444444
+    bugs: 0.004
+C:\Users\caiom\MBA\ref\Factory Method\04.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Factory Method\05.ipynb:
+    h1: 1
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 5
+    length: 6
+    calculated_length: 8.0
+    volume: 13.931568569324174
+    difficulty: 0.5
+    effort: 6.965784284662087
+    time: 0.3869880158145604
+    bugs: 0.004643856189774725
+C:\Users\caiom\MBA\ref\Factory Method\06.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Factory Method\07.ipynb:
+    h1: 1
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 4
+    length: 6
+    calculated_length: 4.754887502163469
+    volume: 12.0
+    difficulty: 0.6666666666666666
+    effort: 8.0
+    time: 0.4444444444444444
+    bugs: 0.004
+C:\Users\caiom\MBA\ref\Factory Method\08.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Factory Method\09.ipynb:
+    h1: 1
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 4
+    length: 6
+    calculated_length: 4.754887502163469
+    volume: 12.0
+    difficulty: 0.6666666666666666
+    effort: 8.0
+    time: 0.4444444444444444
+    bugs: 0.004
+C:\Users\caiom\MBA\ref\Factory Method\10.ipynb:
+    h1: 1
+    h2: 3
+    N1: 2
+    N2: 4
+    vocabulary: 4
+    length: 6
+    calculated_length: 4.754887502163469
+    volume: 12.0
+    difficulty: 0.6666666666666666
+    effort: 8.0
+    time: 0.4444444444444444
+    bugs: 0.004
+    
+
+MI
+
+C:\Users\caiom\MBA\ref\Factory Method\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Factory Method\02.ipynb - A (59.24)
+C:\Users\caiom\MBA\ref\Factory Method\03.ipynb - A (90.93)
+C:\Users\caiom\MBA\ref\Factory Method\04.ipynb - A (57.53)
+C:\Users\caiom\MBA\ref\Factory Method\05.ipynb - A (80.95)
+C:\Users\caiom\MBA\ref\Factory Method\06.ipynb - A (82.35)
+C:\Users\caiom\MBA\ref\Factory Method\07.ipynb - A (57.82)
+C:\Users\caiom\MBA\ref\Factory Method\08.ipynb - A (75.84)
+C:\Users\caiom\MBA\ref\Factory Method\09.ipynb - A (86.14)
+C:\Users\caiom\MBA\ref\Factory Method\10.ipynb - A (80.89)

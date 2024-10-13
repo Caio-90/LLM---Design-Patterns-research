@@ -1,71 +1,127 @@
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb
-    C 5:0 BancoDeDados - A (3)
-    M 9:4 BancoDeDados.__new__ - A (3)
-    M 21:4 BancoDeDados.get_connection - A (2)
-    M 17:4 BancoDeDados._initialize - A (1)
-C:\Users\caiom\MBA\chatgpt4\Singleton\02.ipynb
-    C 1:0 Singleton1 - A (3)
-    C 11:0 Singleton2 - A (3)
-    M 4:4 Singleton1.__new__ - A (2)
-    M 14:4 Singleton2.__new__ - A (2)
-C:\Users\caiom\MBA\chatgpt4\Singleton\03.ipynb
-    C 1:0 President - A (3)
-    M 4:4 President.__new__ - A (2)
-    M 9:4 President.__init__ - A (2)
+CC
 
-11 blocks (classes, functions, methods) analyzed.
-Average complexity: A (2.3636363636363638)
+Average complexity: A (1.935483870967742)
 
 RAW
 
 ** Total **
-    LOC: 87
-    LLOC: 64
+    LOC: 242
+    LLOC: 155
     
 HAL
 
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb:
-    h1: 3
-    h2: 9
-    N1: 6
-    N2: 10
-    vocabulary: 12
-    length: 16
-    calculated_length: 33.28421251514428
-    volume: 57.359400011538504
-    difficulty: 1.6666666666666667
-    effort: 95.59900001923084
-    time: 5.311055556623936
-    bugs: 0.01911980000384617
 C:\Users\caiom\MBA\chatgpt3.5\Singleton\02.ipynb:
     h1: 1
-    h2: 3
+    h2: 7
+    N1: 4
+    N2: 8
+    vocabulary: 8
+    length: 12
+    calculated_length: 19.651484454403228
+    volume: 36.0
+    difficulty: 0.5714285714285714
+    effort: 20.57142857142857
+    time: 1.1428571428571428
+    bugs: 0.012
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb:
+    h1: 1
+    h2: 4
     N1: 2
     N2: 4
-    vocabulary: 4
+    vocabulary: 5
     length: 6
-    calculated_length: 4.754887502163469
-    volume: 12.0
-    difficulty: 0.6666666666666666
-    effort: 8.0
-    time: 0.4444444444444444
-    bugs: 0.004
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb:
+    calculated_length: 8.0
+    volume: 13.931568569324174
+    difficulty: 0.5
+    effort: 6.965784284662087
+    time: 0.3869880158145604
+    bugs: 0.004643856189774725
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\04.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\05.ipynb:
     h1: 2
-    h2: 5
+    h2: 6
     N1: 3
-    N2: 5
-    vocabulary: 7
-    length: 8
-    calculated_length: 13.60964047443681
-    volume: 22.458839376460833
+    N2: 6
+    vocabulary: 8
+    length: 9
+    calculated_length: 17.509775004326936
+    volume: 27.0
     difficulty: 1.0
-    effort: 22.458839376460833
-    time: 1.2477132986922685
-    bugs: 0.007486279792153611
+    effort: 27.0
+    time: 1.5
+    bugs: 0.009
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\07.ipynb:
+    h1: 2
+    h2: 6
+    N1: 3
+    N2: 6
+    vocabulary: 8
+    length: 9
+    calculated_length: 17.509775004326936
+    volume: 27.0
+    difficulty: 1.0
+    effort: 27.0
+    time: 1.5
+    bugs: 0.009
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\08.ipynb:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 3
+    vocabulary: 5
+    length: 5
+    calculated_length: 6.754887502163469
+    volume: 11.60964047443681
+    difficulty: 1.0
+    effort: 11.60964047443681
+    time: 0.6449800263576005
+    bugs: 0.0038698801581456034
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\09.ipynb:
+    h1: 2
+    h2: 3
+    N1: 2
+    N2: 3
+    vocabulary: 5
+    length: 5
+    calculated_length: 6.754887502163469
+    volume: 11.60964047443681
+    difficulty: 1.0
+    effort: 11.60964047443681
+    time: 0.6449800263576005
+    bugs: 0.0038698801581456034
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\10.ipynb:
+    h1: 2
+    h2: 4
+    N1: 3
+    N2: 4
+    vocabulary: 6
+    length: 7
+    calculated_length: 10.0
+    volume: 18.094737505048094
+    difficulty: 1.0
+    effort: 18.094737505048094
+    time: 1.0052631947248942
+    bugs: 0.006031579168349364
     
 MI
 
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\01.ipynb - A (66.74)
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\02.ipynb - A (86.90)
-C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb - A (84.28)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\02.ipynb - A (82.75)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\03.ipynb - A (92.18)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\04.ipynb - A (92.72)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\05.ipynb - A (84.16)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\07.ipynb - A (87.16)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\08.ipynb - A (96.91)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\09.ipynb - A (95.56)
+C:\Users\caiom\MBA\chatgpt3.5\Singleton\10.ipynb - A (81.94)

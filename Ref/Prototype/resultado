@@ -1,0 +1,156 @@
+CC
+
+103 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.2815533980582525)
+
+RAW
+
+** Total **
+    LOC: 493
+    LLOC: 344
+    
+HAL
+
+C:\Users\caiom\MBA\ref\Prototype\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Prototype\02.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\03.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Prototype\04.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\05.ipynb:
+    h1: 2
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 6
+    length: 6
+    calculated_length: 10.0
+    volume: 15.509775004326936
+    difficulty: 1.0
+    effort: 15.509775004326936
+    time: 0.861654166907052
+    bugs: 0.005169925001442312
+C:\Users\caiom\MBA\ref\Prototype\06.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\07.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\08.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\09.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Prototype\10.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+    
+MI
+
+C:\Users\caiom\MBA\ref\Prototype\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Prototype\02.ipynb - A (64.92)
+C:\Users\caiom\MBA\ref\Prototype\03.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Prototype\04.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Prototype\05.ipynb - A (79.20)
+C:\Users\caiom\MBA\ref\Prototype\06.ipynb - A (67.37)
+C:\Users\caiom\MBA\ref\Prototype\07.ipynb - A (54.48)
+C:\Users\caiom\MBA\ref\Prototype\08.ipynb - A (62.10)
+C:\Users\caiom\MBA\ref\Prototype\09.ipynb - A (75.15)
+C:\Users\caiom\MBA\ref\Prototype\10.ipynb - A (80.37)

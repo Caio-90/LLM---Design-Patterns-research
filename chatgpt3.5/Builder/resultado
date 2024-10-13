@@ -1,0 +1,142 @@
+CC
+
+138 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.2826086956521738)
+
+RAW
+
+** Total **
+    LOC: 688
+    LLOC: 484
+
+HAL
+
+C:\Users\caiom\MBA\chatgpt3.5\Builder\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\chatgpt3.5\Builder\02.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\chatgpt3.5\Builder\03.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\chatgpt3.5\Builder\04.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\chatgpt3.5\Builder\06.ipynb:
+    h1: 2
+    h2: 6
+    N1: 3
+    N2: 6
+    vocabulary: 8
+    length: 9
+    calculated_length: 17.509775004326936
+    volume: 27.0
+    difficulty: 1.0
+    effort: 27.0
+    time: 1.5
+    bugs: 0.009
+C:\Users\caiom\MBA\chatgpt3.5\Builder\07.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\chatgpt3.5\Builder\08.ipynb:
+    h1: 2
+    h2: 12
+    N1: 6
+    N2: 12
+    vocabulary: 14
+    length: 18
+    calculated_length: 45.01955000865388
+    volume: 68.53238859703687
+    difficulty: 1.0
+    effort: 68.53238859703687
+    time: 3.8073549220576037
+    bugs: 0.022844129532345624
+C:\Users\caiom\MBA\chatgpt3.5\Builder\09.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\chatgpt3.5\Builder\10.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+    
+MI
+
+C:\Users\caiom\MBA\chatgpt3.5\Builder\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\02.ipynb - A (100.00)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\03.ipynb - A (100.00)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\04.ipynb - A (100.00)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\06.ipynb - A (73.82)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\07.ipynb - A (61.77)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\08.ipynb - A (64.94)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\09.ipynb - A (100.00)
+C:\Users\caiom\MBA\chatgpt3.5\Builder\10.ipynb - A (100.00)

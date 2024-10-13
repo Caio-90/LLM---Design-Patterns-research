@@ -1,0 +1,156 @@
+CC
+
+235 blocks (classes, functions, methods) analyzed.
+Average complexity: A (1.2425531914893617)
+
+RAW
+
+** Total **
+    LOC: 980
+    LLOC: 698
+    
+HAL
+
+C:\Users\caiom\MBA\ref\Builder\01.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Builder\02.ipynb:
+    h1: 2
+    h2: 20
+    N1: 10
+    N2: 20
+    vocabulary: 22
+    length: 30
+    calculated_length: 88.43856189774725
+    volume: 133.78294855911892
+    difficulty: 1.0
+    effort: 133.78294855911892
+    time: 7.432386031062162
+    bugs: 0.044594316186372975
+C:\Users\caiom\MBA\ref\Builder\03.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Builder\04.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Builder\05.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Builder\06.ipynb:
+    h1: 2
+    h2: 4
+    N1: 2
+    N2: 4
+    vocabulary: 6
+    length: 6
+    calculated_length: 10.0
+    volume: 15.509775004326936
+    difficulty: 1.0
+    effort: 15.509775004326936
+    time: 0.861654166907052
+    bugs: 0.005169925001442312
+C:\Users\caiom\MBA\ref\Builder\07.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Builder\08.ipynb:
+    h1: 0
+    h2: 0
+    N1: 0
+    N2: 0
+    vocabulary: 0
+    length: 0
+    calculated_length: 0
+    volume: 0
+    difficulty: 0
+    effort: 0
+    time: 0.0
+    bugs: 0.0
+C:\Users\caiom\MBA\ref\Builder\09.ipynb:
+    h1: 1
+    h2: 2
+    N1: 1
+    N2: 2
+    vocabulary: 3
+    length: 3
+    calculated_length: 2.0
+    volume: 4.754887502163469
+    difficulty: 0.5
+    effort: 2.3774437510817346
+    time: 0.1320802083934297
+    bugs: 0.0015849625007211565
+C:\Users\caiom\MBA\ref\Builder\10.ipynb:
+    h1: 3
+    h2: 8
+    N1: 4
+    N2: 8
+    vocabulary: 11
+    length: 12
+    calculated_length: 28.75488750216347
+    volume: 41.51317942364757
+    difficulty: 1.5
+    effort: 62.26976913547136
+    time: 3.4594316186372978
+    bugs: 0.01383772647454919
+    
+MI
+
+C:\Users\caiom\MBA\ref\Builder\01.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Builder\02.ipynb - A (49.18)
+C:\Users\caiom\MBA\ref\Builder\03.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Builder\04.ipynb - A (74.07)
+C:\Users\caiom\MBA\ref\Builder\05.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Builder\06.ipynb - A (45.37)
+C:\Users\caiom\MBA\ref\Builder\07.ipynb - A (47.87)
+C:\Users\caiom\MBA\ref\Builder\08.ipynb - A (100.00)
+C:\Users\caiom\MBA\ref\Builder\09.ipynb - A (52.48)
+C:\Users\caiom\MBA\ref\Builder\10.ipynb - A (46.94)

@@ -1,0 +1,156 @@
+CC
+
+112 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.0)
+
+RAW
+
+** Total **
+    LOC: 596
+    LLOC: 400
+
+HAL
+
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\01.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\02.ipynb:
+    h1: 2
+    h2: 6
+    N1: 4
+    N2: 7
+    vocabulary: 8
+    length: 11
+    calculated_length: 17.509775004326936
+    volume: 33.0
+    difficulty: 1.1666666666666667
+    effort: 38.5
+    time: 2.138888888888889
+    bugs: 0.011
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\03.ipynb:
+    h1: 2
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 7
+    length: 9
+    calculated_length: 13.60964047443681
+    volume: 25.26619429851844
+    difficulty: 1.2
+    effort: 30.319433158222125
+    time: 1.6844129532345624
+    bugs: 0.008422064766172813
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\04.ipynb:
+    h1: 1
+    h2: 10
+    N1: 7
+    N2: 14
+    vocabulary: 11
+    length: 21
+    calculated_length: 33.219280948873624
+    volume: 72.64806399138325
+    difficulty: 0.7
+    effort: 50.85364479396827
+    time: 2.825202488553793
+    bugs: 0.024216021330461083
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\05.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\06.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\07.ipynb:
+    h1: 1
+    h2: 8
+    N1: 5
+    N2: 10
+    vocabulary: 9
+    length: 15
+    calculated_length: 24.0
+    volume: 47.548875021634686
+    difficulty: 0.625
+    effort: 29.718046888521677
+    time: 1.651002604917871
+    bugs: 0.01584962500721156
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\08.ipynb:
+    h1: 1
+    h2: 16
+    N1: 13
+    N2: 26
+    vocabulary: 17
+    length: 39
+    calculated_length: 64.0
+    volume: 159.41105080876326
+    difficulty: 0.8125
+    effort: 129.52147878212014
+    time: 7.1956377101177855
+    bugs: 0.05313701693625442
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\09.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\10.ipynb:
+    h1: 1
+    h2: 5
+    N1: 3
+    N2: 6
+    vocabulary: 6
+    length: 9
+    calculated_length: 11.60964047443681
+    volume: 23.264662506490403
+    difficulty: 0.6
+    effort: 13.95879750389424
+    time: 0.7754887502163467
+    bugs: 0.007754887502163467
+
+MI
+
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\01.ipynb - A (84.87)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\02.ipynb - A (83.35)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\03.ipynb - A (86.48)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\04.ipynb - A (61.42)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\05.ipynb - A (73.91)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\06.ipynb - A (76.02)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\07.ipynb - A (69.53)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\08.ipynb - A (62.63)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\09.ipynb - A (84.87)
+C:\Users\caiom\MBA\chatgpt3.5\Factory Method\10.ipynb - A (84.87)
