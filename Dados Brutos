@@ -1,0 +1,42 @@
+Nota: Esse arquivo contém as médias dos valores para cada padrão e LLM, se desejar mais granularidade, basta baixar o programas e utilizar a ferramente radon 
+(https://pypi.org/project/radon).
+
+Padrão: Sengleton
+
+Fonte	Complexidade ciclomática média	Dificuldade Média	Linhas de código	Linhas Lógicas	Índice de Manutenibilidade Médio	Vocabulário Médio	Comprimento Médio	Volume Médio	Esforço Médio	Porcentagem de LLOC
+ChatGPT3.5	1,93	0,82	242	155	89,17	6,00	7,00	18,75	15,65	64,05%
+Gemini Advanced	2,28	1,07	297	226	77,63	8,25	11,25	35,88	45,11	76,09%
+Copilot	2,16	0,69	176	117	91,02	4,89	5,56	12,79	8,99	66,48%
+Referência	2,04	0,98	309	205	75,48	7,10	10,67	25,38	34,29	66,34%
+
+Padrão: Prototype
+
+Fonte	Complexidade ciclomática média	Dificuldade Média	Linhas de código	Linhas Lógicas	Índice de Manutenibilidade Médio	Vocabulário Médio	Comprimento Médio	Volume Médio	Esforço Médio	Porcentagem de LLOC
+ChatGPT3.5	1,31	0.05	462	280	97,08	0,30	0,30	0,48	0,24	60,61%
+Gemini Advanced	1,32	0.1	377	248	95,07	0,60	0,60	0,95	0,48	65,78%
+Copilot	1,36	0.05	288	189	98,50	0,30	0,30	0,48	0,24	65,63%
+Referência	1,28	0.45	493	344	78,36	2,70	2,70	4,88	3,22	69,78%
+
+Padrão: Builder
+
+Fonte	Complexidade ciclomática média	Dificuldade Média	Linhas de código	Linhas Lógicas	Índice de Manutenibilidade Médio	Vocabulário Médio	Comprimento Médio	Volume Médio	Esforço Médio	Porcentagem de LLOC
+ChatGPT3.5	1,28	0,28	688	484	88,95	2,78	3,33	11,14	10,88	70,35%
+Gemini Advanced	1,34	-	646	457	100,00	-	-	-	-	70,74%
+Copilot	1,27	0,25	420	317	97,12	0,78	1,00	2,81	6,32	75,48%
+Referência	1,24	0,5	980	698	71,59	4,80	5,70	20,51	21,87	71,22%
+
+Padrão: Factory Method
+
+Fonte	Complexidade ciclomática média	Dificuldade Média	Linhas de código	Linhas Lógicas	Índice de Manutenibilidade Médio	Vocabulário Médio	Comprimento Médio	Volume Médio	Esforço Médio	Porcentagem de LLOC
+ChatGPT3.5	2	0,75	596	400	76,79	8,20	14,00	45,42	34,87	67,11%
+Gemini Advanced	1,63	0,54	446	316	77,49	4,00	5,89	13,58	8,79	70,85%
+Copilot	1,72	0,47	316	227	85,56	3,89	5,56	13,62	7,99	71,84%
+Referência	1,5	0,57	516	335	77,17	3,70	4,70	9,87	6,86	64,92%
+
+Padrão: Abstract Factory
+
+Fonte	Complexidade ciclomática média	Dificuldade Média	Linhas de código	Linhas Lógicas	Índice de Manutenibilidade Médio	Vocabulário Médio	Comprimento Médio	Volume Médio	Esforço Médio	Porcentagem de LLOC
+ChatGPT3.5	1,42	0,52	837	555	78,59	3,60	4,20	9,06	5,77	66,31%
+Gemini Advanced	1,49	0,46	627	442	76,01	4,56	5,67	15,37	8,77	70,49%
+Copilot	1,48	0,39	525	364	82,25	3,10	4,20	9,92	5,99	69,33%
+Referência	1,55	0,52	794	491	80,77	5,20	6,50	20,95	23,81	61,84%
